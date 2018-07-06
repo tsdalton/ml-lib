@@ -1,5 +1,5 @@
 """
-The :mod:`ml_libr.linear_model` module implements generalized linear models.
+The :mod:`ml_libr.linear` module implements generalized linear models.
 """
 
 from .perceptron import Perceptron
